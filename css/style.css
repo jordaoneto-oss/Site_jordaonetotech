@@ -56,10 +56,13 @@ img { max-width: 100%; display: block; }
 }
 
 .logo {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #00D2A0;
-  letter-spacing: -0.5px;
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 32px;
+  width: auto;
 }
 
 /* Menu toggle (mobile) */
@@ -408,6 +411,12 @@ img { max-width: 100%; display: block; }
   color: #00D2A0;
   font-size: 1rem;
   margin-bottom: 16px;
+}
+
+.footer-logo {
+  height: 28px;
+  width: auto;
+  margin-bottom: 12px;
 }
 
 .footer-col p { font-size: 0.9rem; color: #999; }

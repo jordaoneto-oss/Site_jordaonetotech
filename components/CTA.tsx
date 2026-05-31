@@ -21,8 +21,7 @@ export default function CTA() {
         </p>
         <a
           href="#"
-          className="btn btn-primary btn-lg"
-          style={{ background: "#fff", color: "#111" }}
+          className="btn btn-accent btn-lg"
         >
           Quero agendar meu diagnóstico
         </a>

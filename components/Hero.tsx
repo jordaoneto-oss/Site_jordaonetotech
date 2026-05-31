@@ -17,7 +17,7 @@ export default function Hero() {
           <a href="#" className="btn btn-primary">
             Quero transformar minha equipe
           </a>
-          <a href="#" className="btn btn-outline">
+          <a href="#" className="btn btn-accent">
             Saiba mais
           </a>
         </div>

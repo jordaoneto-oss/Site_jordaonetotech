@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF source files
+Arquivos/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Node if ever used
+node_modules/

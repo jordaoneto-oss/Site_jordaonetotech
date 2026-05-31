@@ -56,10 +56,13 @@ img { max-width: 100%; display: block; }
 }
 
 .logo {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #00D2A0;
-  letter-spacing: -0.5px;
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 36px;
+  width: auto;
 }
 
 /* Menu toggle (mobile) */
